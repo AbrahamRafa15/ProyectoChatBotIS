@@ -12,3 +12,10 @@ Aquí defines las funcionalidades y características que debe cumplir el softwar
 ![Imagen cu12](Instalaciones2.png)
 ![Imagen cu13](Instalaciones3.png)
 
+•⁠ **Requerimiento 2:** El sistema permite obtener enlaces a los servicios en línea que ITAM el proporciona.
+  - Caso de Uso 1: Consultar información de servicios web
+  - Caso de Uso 2: Consultar información de ayuda financiera
+  - Caso de Uso 3: Consultar información de Comunidad ITAM
+![Imagen cu21](informacion1.png)
+![Imagen cu22](informacion2.png)
+![Imagen cu23](informacion3.png)
