@@ -67,7 +67,7 @@ El proyecto será considerado exitoso si cumple con los siguientes criterios:
 
 
 ![Segunda Sección](FotoChatBot2.png)
-
+- **Descripción:** Se utilizó Landbot para el desarrollo, en el cual incluímos bloques como botones, condiconales y mensajes.  
 
 ## 6. Documentación para Replicar el Proyecto
 
