@@ -74,6 +74,33 @@ Clonar el repositorio localmente:
 Ubicarse en el directorio deseado y ejecutar el comando para clonar.
 Confirmar que la estructura de archivos se haya descargado correctamente.
 
+3. Configuración del Proyecto
+Revisar los archivos de configuración y ajustes iniciales.
+Definir variables de entorno:
+Crear un archivo .env con parámetros críticos (puertos, claves, etc.).
+Instalar las dependencias necesarias siguiendo los lineamientos proporcionados.
+
+4. Ejecución del Proyecto
+Iniciar el servidor local del chatbot.
+Validar que las funcionalidades respondan correctamente en el navegador.
+Confirmar la navegación entre menús y respuestas esperadas.
+
+5. Verificación de Funcionalidades
+Realizar pruebas básicas:
+Navegación: Funcionalidad de los botones principales.
+Respuestas: Validación de mensajes y redirecciones correctas.
+Retorno: Flujo adecuado hacia el menú principal.
+
+6. Validación Final
+El proyecto se considerará replicado exitosamente cuando:
+El servidor funcione sin errores.
+Las respuestas y navegación del chatbot sean correctas.
+El entorno esté configurado y documentado adecuadamente.
+
+7. Observaciones
+Para evitar errores, se recomienda mantener actualizados los archivos de configuración y revisar periódicamente la documentación.
+
+
 
 
 
