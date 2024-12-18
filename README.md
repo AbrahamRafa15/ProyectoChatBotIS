@@ -54,7 +54,7 @@ El proyecto será considerado exitoso si cumple con los siguientes criterios:
 
 
 
-## 5. Resultados Esperados
+## Resultados Esperados
 
 - **Chatbot funcional** y entregado en la fecha establecida.  
 - **Disponibilidad**: 99% durante las pruebas finales.  
