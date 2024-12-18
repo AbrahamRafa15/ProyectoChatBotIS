@@ -63,10 +63,10 @@ El proyecto será considerado exitoso si cumple con los siguientes criterios:
 
 ## 5. Código del Proyecto
 
-![Primera sección](ProyectoChatBotIS/FotoChatBot.png)
+![Primera sección](FotoChatBot.png)
 
 
-![Segunda Sección](ProyectoChatBotIS/FotoChatBot2.png)
+![Segunda Sección](FotoChatBot2.png)
 
 
 ## 6. Documentación para Replicar el Proyecto
