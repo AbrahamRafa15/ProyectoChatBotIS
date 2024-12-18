@@ -1,30 +1,42 @@
 # ProyectoChatBotIS
 Proyecto de Ingeniería de Software Otoño 2024. Chatbot para guiar a una persona que acaba de entrar al ITAM
 
-2. Plan de Calidad
-Objetivo del Plan de Calidad
-El Plan de Calidad tiene como objetivo asegurar que el chatbot cumple con los requerimientos funcionales, no funcionales y las expectativas del usuario final, brindando una experiencia eficiente, intuitiva y precisa.
 
-Estándares de Calidad
-Se definirán estándares con base en ISO/IEC 25010 para la calidad del software:
-Funcionalidad: El chatbot debe ofrecer respuestas precisas y alineadas a las preguntas planteadas.
-Eficiencia: Respuesta rápida (menos de 3 segundos en promedio).
-Usabilidad: Interfaz amigable, con navegación intuitiva.
-Confiabilidad: El chatbot debe tener una disponibilidad del 99%.
-Mantenibilidad: Código modular y documentación detallada.
-Portabilidad: Compatible con múltiples dispositivos y navegadores.
+## 2. Plan de Calidad
 
-Criterios de Aceptación
+### **Objetivo del Plan de Calidad**  
+El Plan de Calidad tiene como objetivo asegurar que el chatbot cumple con los **requerimientos funcionales**, **no funcionales** y las **expectativas del usuario final**, brindando una experiencia **eficiente**, **intuitiva** y **precisa**.
+
+---
+
+### **Estándares de Calidad**  
+Se definirán estándares con base en **ISO/IEC 25010** para la calidad del software:
+
+- **Funcionalidad**: El chatbot debe ofrecer respuestas precisas y alineadas a las preguntas planteadas.  
+- **Eficiencia**: Respuesta rápida (menos de 3 segundos en promedio).  
+- **Usabilidad**: Interfaz amigable, con navegación intuitiva.  
+- **Confiabilidad**: El chatbot debe tener una disponibilidad del 99%.  
+- **Mantenibilidad**: Código modular y documentación detallada.  
+- **Portabilidad**: Compatible con múltiples dispositivos y navegadores.  
+
+---
+
+### **Criterios de Aceptación**  
 El proyecto será considerado exitoso si cumple con los siguientes criterios:
-Respuestas adecuadas y funcionales:
-Al menos 90% de las interacciones cumplen con los flujos diseñados.
-Respuestas en menos de 3 segundos.
-Accesibilidad y navegación fluida:
-Las opciones y botones deben funcionar en todas las plataformas compatibles.
-Estabilidad del sistema:
-El chatbot no debe presentar errores críticos en las pruebas funcionales.
-Documentación técnica completa:
-Entrega del ReadMe con instrucciones claras.
+
+1. **Respuestas adecuadas y funcionales**:  
+   - Al menos **90%** de las interacciones cumplen con los flujos diseñados.  
+   - Respuestas en menos de **3 segundos**.
+
+2. **Accesibilidad y navegación fluida**:  
+   - Las opciones y botones deben funcionar en **todas las plataformas compatibles**.  
+
+3. **Estabilidad del sistema**:  
+   - El chatbot no debe presentar **errores críticos** en las pruebas funcionales.  
+
+4. **Documentación técnica completa**:  
+   - Entrega del **ReadMe** con instrucciones claras y replicables.  
+
 
 
 
