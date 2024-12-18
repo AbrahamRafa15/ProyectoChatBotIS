@@ -54,54 +54,70 @@ El proyecto será considerado exitoso si cumple con los siguientes criterios:
 
 
 
-5. Resultados Esperados
-Chatbot funcional y entregado en la fecha establecida.
-Disponibilidad: 99% durante las pruebas finales.
-Respuestas precisas y alineadas al objetivo del ITAM.
-Documentación clara y completa para replicar el proyecto.
+## 5. Resultados Esperados
+
+- **Chatbot funcional** y entregado en la fecha establecida.  
+- **Disponibilidad**: 99% durante las pruebas finales.  
+- **Respuestas precisas** y alineadas al objetivo del ITAM.  
+- **Documentación clara y completa** para replicar el proyecto.  
 
 
-6. Documentación para Replicar el Proyecto
-1. Requisitos Previos
-Para replicar y ejecutar el proyecto se necesita:
-Sistema Operativo: Windows, macOS o Linux.
-Herramientas:
-Gestor de versiones: Git.
-Entorno de desarrollo: Node.js v18+ y un editor de texto (recomendado: Visual Studio Code).
-Accesos: Configuraciones y claves API necesarias para servicios externos.
 
-2. Clonación del Proyecto
-Obtener el enlace del repositorio.
-Clonar el repositorio localmente:
-Ubicarse en el directorio deseado y ejecutar el comando para clonar.
-Confirmar que la estructura de archivos se haya descargado correctamente.
+## 6. Documentación para Replicar el Proyecto
 
-3. Configuración del Proyecto
-Revisar los archivos de configuración y ajustes iniciales.
-Definir variables de entorno:
-Crear un archivo .env con parámetros críticos (puertos, claves, etc.).
-Instalar las dependencias necesarias siguiendo los lineamientos proporcionados.
+### **1. Requisitos Previos**  
+Para replicar y ejecutar el proyecto se necesita:  
+- **Sistema Operativo**: Windows, macOS o Linux.  
+- **Herramientas**:  
+   - Gestor de versiones: **Git**.  
+   - Entorno de desarrollo: **Node.js v18+** y un editor de texto (recomendado: Visual Studio Code).  
+- **Accesos**: Configuraciones y claves API necesarias para servicios externos.  
 
-4. Ejecución del Proyecto
-Iniciar el servidor local del chatbot.
-Validar que las funcionalidades respondan correctamente en el navegador.
-Confirmar la navegación entre menús y respuestas esperadas.
+---
 
-5. Verificación de Funcionalidades
-Realizar pruebas básicas:
-Navegación: Funcionalidad de los botones principales.
-Respuestas: Validación de mensajes y redirecciones correctas.
-Retorno: Flujo adecuado hacia el menú principal.
+### **2. Clonación del Proyecto**  
+- Obtener el enlace del repositorio.  
+- Clonar el repositorio localmente:  
+   - Ubicarse en el directorio deseado y ejecutar el comando para clonar.  
+- Confirmar que la estructura de archivos se haya descargado correctamente.  
 
-6. Validación Final
-El proyecto se considerará replicado exitosamente cuando:
-El servidor funcione sin errores.
-Las respuestas y navegación del chatbot sean correctas.
-El entorno esté configurado y documentado adecuadamente.
+---
 
-7. Observaciones
-Para evitar errores, se recomienda mantener actualizados los archivos de configuración y revisar periódicamente la documentación.
+### **3. Configuración del Proyecto**  
+- Revisar los archivos de configuración y ajustes iniciales.  
+- Definir **variables de entorno**:  
+   - Crear un archivo `.env` con parámetros críticos (puertos, claves, etc.).  
+- Instalar las dependencias necesarias siguiendo los lineamientos proporcionados.  
 
+---
+
+### **4. Ejecución del Proyecto**  
+- Iniciar el servidor local del chatbot.  
+- Validar que las funcionalidades respondan correctamente en el navegador.  
+- Confirmar la navegación entre menús y respuestas esperadas.  
+
+---
+
+### **5. Verificación de Funcionalidades**  
+Realizar pruebas básicas para garantizar el funcionamiento del chatbot:  
+- **Navegación**: Funcionalidad de los botones principales.  
+- **Respuestas**: Validación de mensajes y redirecciones correctas.  
+- **Retorno**: Flujo adecuado hacia el menú principal.  
+
+---
+
+### **6. Validación Final**  
+El proyecto se considerará replicado exitosamente cuando:  
+- El servidor funcione sin errores.  
+- Las respuestas y navegación del chatbot sean correctas.  
+- El entorno esté configurado y documentado adecuadamente.  
+
+---
+
+### **7. Observaciones**  
+Para evitar errores, se recomienda:  
+- Mantener actualizados los archivos de configuración.  
+- Revisar periódicamente la documentación del proyecto.  
 
 
 
