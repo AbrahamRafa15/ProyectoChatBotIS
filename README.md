@@ -19,7 +19,7 @@ Finalmente, este enfoque asegura que el desarrollo sea guiado por la **retroalim
 Esto mejora la experiencia del usuario y garantiza que el chatbot evolucione hacia una herramienta **funcional** y **alineada** con las expectativas de los estudiantes de nuevo ingreso.
 
 
-### 7. Propuesta Económica  
+## 7. Propuesta Económica  
 
 La imagen presenta un **presupuesto desglosado** para el desarrollo del proyecto, con tareas asignadas a **roles clave** y sus respectivos costos.  
 
