@@ -8,5 +8,7 @@ Aquí defines las funcionalidades y características que debe cumplir el softwar
   - Caso de Uso 1: Consultar información de las instalaciones
   - Caso de Uso 2: Consultar horarios de facultad menor
   - Caso de Uso 3: Consultar ubicación de salones PF
-
+![Imagen cu11](Instalaciones1.png)
+![Imagen cu12](Instalaciones2.png)
+![Imagen cu13](Instalaciones3.png)
 
