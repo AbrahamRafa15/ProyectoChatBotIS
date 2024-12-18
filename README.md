@@ -33,5 +33,7 @@ Estos roles trabajan en tareas de **desarrollo, implementación, pruebas y gesti
 
 El **costo operativo** es de **$48,333.33**, y el **costo total**, con **IVA incluido**, asciende a **$166,069**.  
 
-Las actividades más costosas corresponden al **desarrollo de módulos** e **implementación de inteligencia artificial**, mientras que **DevOps y QA** se encargan de asegurar la calidad y el funcionamiento del proyecto.  
+Las actividades más costosas corresponden al **desarrollo de módulos** e **implementación de inteligencia artificial**, mientras que **DevOps y QA** se encargan de asegurar la calidad y el funcionamiento del proyecto.  A continuación el enlace al documento con un desglose detallado del costo del proyecto:  
+[Desglose de costos del proyecto](https://docs.google.com/spreadsheets/d/1RmOlzdKv72WxtnDIrV1jqI1GilRBHA5URNiPY4_HTrg/edit?gid=72301085#gid=72301085)
+  
 
