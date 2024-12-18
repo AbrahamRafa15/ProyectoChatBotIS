@@ -57,3 +57,23 @@ Chatbot funcional y entregado en la fecha establecida.
 Disponibilidad: 99% durante las pruebas finales.
 Respuestas precisas y alineadas al objetivo del ITAM.
 Documentación clara y completa para replicar el proyecto.
+
+
+6. Documentación para Replicar el Proyecto
+1. Requisitos Previos
+Para replicar y ejecutar el proyecto se necesita:
+Sistema Operativo: Windows, macOS o Linux.
+Herramientas:
+Gestor de versiones: Git.
+Entorno de desarrollo: Node.js v18+ y un editor de texto (recomendado: Visual Studio Code).
+Accesos: Configuraciones y claves API necesarias para servicios externos.
+
+2. Clonación del Proyecto
+Obtener el enlace del repositorio.
+Clonar el repositorio localmente:
+Ubicarse en el directorio deseado y ejecutar el comando para clonar.
+Confirmar que la estructura de archivos se haya descargado correctamente.
+
+
+
+
