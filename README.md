@@ -29,27 +29,18 @@ Entrega del ReadMe con instrucciones claras.
 
 
 
-Tipo de prueba
-Descripción
-Herramienta a usar
-Pruebas unitarias
-Evaluar componentes individuales del chatbot.
-Jest, Mocha
-Pruebas de integración
-Validar interacciones entre botones y respuestas.
-Postman, Insomnia
-Pruebas funcionales
-Revisar que los botones y respuestas funcionen correctamente.
-Manual / Selenium
-Pruebas de rendimiento
-Medir tiempos de respuesta y uso de recursos.
-JMeter
-Pruebas de usabilidad
-Validar la experiencia del usuario con evaluadores externos.
-Feedback en clase
-Pruebas de regresión
-Asegurar que nuevas funcionalidades no rompan el sistema.
-Git + Test Automáticos
+## Pruebas
+
+| **Tipo de prueba**           | **Descripción**                                              | **Herramienta a usar**       |
+|------------------------------|-------------------------------------------------------------|-----------------------------|
+| *Pruebas unitarias*          | Evaluar componentes individuales del chatbot.               | Jest, Mocha                 |
+| *Pruebas de integración*     | Validar interacciones entre botones y respuestas.           | Postman, Insomnia           |
+| *Pruebas funcionales*        | Revisar que los botones y respuestas funcionen correctamente.| Manual / Selenium           |
+| *Pruebas de rendimiento*     | Medir tiempos de respuesta y uso de recursos.               | JMeter                      |
+
+| *Pruebas de usabilidad*      | Validar la experiencia del usuario con evaluadores externos.| Feedback en clase           |
+| *Pruebas de regresión*       | Asegurar que nuevas funcionalidades no rompan el sistema.   | Git + Test Automáticos      |
+
 
 
 5. Resultados Esperados
