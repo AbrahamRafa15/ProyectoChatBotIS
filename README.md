@@ -25,3 +25,11 @@ Aquí defines las funcionalidades y características que debe cumplir el softwar
   - Caso de Uso 2: Consultar libros por nombre del libro y autor
 ![Imagen cu31](buscar1.png)
 ![Imagen cu32](buscar2.png)
+
+•⁠ **Requerimiento 4:** El sistema permite a los usuarios interactuar con una inteligencia artificial que les brinda información general sobre el ITAM.
+  - Caso de Uso 1: Hacer preguntas sobre la información del ITAM
+  - Caso de Uso 2: Hacer preguntas sobre las carreras del ITAM
+  - Caso de Uso 3: Hacer preguntas sobre las organizaciones estudiantiles del ITAM
+![Imagen cu41](asistencia1.png)
+![Imagen cu42](asistencia2.png)
+![Imagen cu43](asistencia3.png)
