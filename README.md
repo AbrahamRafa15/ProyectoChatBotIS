@@ -17,3 +17,21 @@ Los prototipos también beneficiarán a **QA** y **DevOps** al brindarles una me
 
 Finalmente, este enfoque asegura que el desarrollo sea guiado por la **retroalimentación real de los alumnos**.  
 Esto mejora la experiencia del usuario y garantiza que el chatbot evolucione hacia una herramienta **funcional** y **alineada** con las expectativas de los estudiantes de nuevo ingreso.
+
+
+### 7. Propuesta Económica  
+
+La imagen presenta un **presupuesto desglosado** para el desarrollo del proyecto, con tareas asignadas a **roles clave** y sus respectivos costos.  
+
+Los roles involucrados en el proyecto son:  
+- **Product Manager Intermedio**  
+- **Senior Software Developers**  
+- **DevOps**  
+- **QA Tester**  
+
+Estos roles trabajan en tareas de **desarrollo, implementación, pruebas y gestión** del proyecto.  
+
+El **costo operativo** es de **$48,333.33**, y el **costo total**, con **IVA incluido**, asciende a **$166,069**.  
+
+Las actividades más costosas corresponden al **desarrollo de módulos** e **implementación de inteligencia artificial**, mientras que **DevOps y QA** se encargan de asegurar la calidad y el funcionamiento del proyecto.  
+
