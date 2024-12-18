@@ -26,3 +26,34 @@ El chatbot no debe presentar errores críticos en las pruebas funcionales.
 Documentación técnica completa:
 Entrega del ReadMe con instrucciones claras.
 
+
+
+
+Tipo de prueba
+Descripción
+Herramienta a usar
+Pruebas unitarias
+Evaluar componentes individuales del chatbot.
+Jest, Mocha
+Pruebas de integración
+Validar interacciones entre botones y respuestas.
+Postman, Insomnia
+Pruebas funcionales
+Revisar que los botones y respuestas funcionen correctamente.
+Manual / Selenium
+Pruebas de rendimiento
+Medir tiempos de respuesta y uso de recursos.
+JMeter
+Pruebas de usabilidad
+Validar la experiencia del usuario con evaluadores externos.
+Feedback en clase
+Pruebas de regresión
+Asegurar que nuevas funcionalidades no rompan el sistema.
+Git + Test Automáticos
+
+
+5. Resultados Esperados
+Chatbot funcional y entregado en la fecha establecida.
+Disponibilidad: 99% durante las pruebas finales.
+Respuestas precisas y alineadas al objetivo del ITAM.
+Documentación clara y completa para replicar el proyecto.
