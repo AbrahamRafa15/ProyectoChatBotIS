@@ -3,6 +3,8 @@ Proyecto de Ingeniería de Software Otoño 2024. Chatbot para guiar a una person
 
 
 
+
+
 ## 1. Software Requirements (Requerimientos de Software)
 Aquí defines las funcionalidades y características que debe cumplir el software. Incluyes al menos 3 casos de uso por requerimiento para mostrar cómo interactúan los usuarios con el sistema.
 
@@ -96,7 +98,17 @@ El proyecto será considerado exitoso si cumple con los siguientes criterios:
 - **Chatbot funcional** y entregado en la fecha establecida.  
 - **Disponibilidad**: 99% durante las pruebas finales.  
 - **Respuestas precisas** y alineadas al objetivo del ITAM.  
-- **Documentación clara y completa** para replicar el proyecto.  
+- **Documentación clara y completa** para replicar el proyecto.
+
+## 3. Arquitectura y Justificación
+
+![Imagen arquitectura](Arquitectura.png)
+
+La arquitectura basada en eventos organiza el flujo del chatbot a partir de la generación y manejo de **eventos** que representan las acciones del usuario. En este caso, el chatbot reacciona a eventos específicos, como **mostrar opciones, desplegar el mapa, proporcionar URLs o mostrar información de horarios**, entre otros.
+
+Cada interacción del usuario desencadena un evento que es detectado y procesado de manera independiente. Por ejemplo, al seleccionar “Ver el mapa”, se genera un evento que activa un componente encargado de recuperar y enviar el enlace correspondiente. Este modelo permite que el sistema sea **asíncrono** y **desacoplado**, es decir, las acciones pueden ejecutarse sin depender directamente unas de otras, facilitando la incorporación de nuevas funcionalidades sin modificar el flujo central.
+
+El uso de eventos garantiza una mayor **eficiencia** y **escalabilidad** del chatbot, ya que permite manejar múltiples solicitudes simultáneamente. Además, al estar diseñado en módulos independientes que reaccionan a eventos específicos, el sistema se vuelve más fácil de mantener y expandir en el futuro.
 
 ## 5. Código del Proyecto
 
@@ -161,7 +173,5 @@ El proyecto se considerará replicado exitosamente cuando:
 Para evitar errores, se recomienda:  
 - Mantener actualizados los archivos de configuración.  
 - Revisar periódicamente la documentación del proyecto.  
-
-
 
 
