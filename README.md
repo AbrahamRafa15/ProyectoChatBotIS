@@ -37,7 +37,6 @@ Entrega del ReadMe con instrucciones claras.
 | *Pruebas de integración*     | Validar interacciones entre botones y respuestas.           | Postman, Insomnia           |
 | *Pruebas funcionales*        | Revisar que los botones y respuestas funcionen correctamente.| Manual / Selenium           |
 | *Pruebas de rendimiento*     | Medir tiempos de respuesta y uso de recursos.               | JMeter                      |
-
 | *Pruebas de usabilidad*      | Validar la experiencia del usuario con evaluadores externos.| Feedback en clase           |
 | *Pruebas de regresión*       | Asegurar que nuevas funcionalidades no rompan el sistema.   | Git + Test Automáticos      |
 
