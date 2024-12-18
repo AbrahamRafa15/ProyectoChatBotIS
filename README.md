@@ -61,6 +61,12 @@ El proyecto será considerado exitoso si cumple con los siguientes criterios:
 - **Respuestas precisas** y alineadas al objetivo del ITAM.  
 - **Documentación clara y completa** para replicar el proyecto.  
 
+## 5. Código del Proyecto
+
+![Primera sección](ProyectoChatBotIS/FotoChatBot.png)
+
+
+![Segunda Sección](ProyectoChatBotIS/FotoChatBot2.png)
 
 
 ## 6. Documentación para Replicar el Proyecto
