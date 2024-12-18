@@ -19,3 +19,9 @@ Aquí defines las funcionalidades y características que debe cumplir el softwar
 ![Imagen cu21](informacion1.png)
 ![Imagen cu22](informacion2.png)
 ![Imagen cu23](informacion3.png)
+
+•⁠ **Requerimiento 3:** El sistema facilita la consulta de libros en el portal web de la biblioteca del ITAM
+  - Caso de Uso 1: Consultar libros por nombre del libro
+  - Caso de Uso 2: Consultar libros por nombre del libro y autor
+![Imagen cu31](buscar1.png)
+![Imagen cu32](buscar2.png)
