@@ -1,5 +1,5 @@
 # ProyectoChatBotIS
-Proyecto de Ingeniería de Software Otoño 2024. Chatbot para guiar a una persona que acaba de entrar al ITAM
+Proyecto de Ingeniería de Software Otoño 2024. Chatbot para guiar a una persona que acaba de entrar al ITAM.
 
 ## 1. Software Requirements (Requerimientos de Software)
 Aquí defines las funcionalidades y características que debe cumplir el software. Incluyes al menos 3 casos de uso por requerimiento para mostrar cómo interactúan los usuarios con el sistema.
@@ -23,8 +23,10 @@ Aquí defines las funcionalidades y características que debe cumplir el softwar
 •⁠ **Requerimiento 3:** El sistema facilita la consulta de libros en el portal web de la biblioteca del ITAM
   - Caso de Uso 1: Consultar libros por nombre del libro
   - Caso de Uso 2: Consultar libros por nombre del libro y autor
+  - Caso de Uso 3: Consultar libros por autor
 ![Imagen cu31](buscar1.png)
 ![Imagen cu32](buscar2.png)
+![Imagen cu33](buscar3.png)
 
 •⁠ **Requerimiento 4:** El sistema permite a los usuarios interactuar con una inteligencia artificial que les brinda información general sobre el ITAM.
   - Caso de Uso 1: Hacer preguntas sobre la información del ITAM
@@ -125,10 +127,22 @@ Esto mejora la experiencia del usuario y garantiza que el chatbot evolucione hac
 
 ## 5. Código del Proyecto
 
-![Primera sección](FotoChatBot.png)
+### **Inicio de las interacciones con el bot**
+![Inicio interacción bot](landbot1.png)
 
+### **Opciones disponibles en instalaciones**
+![Instalaciones interacción bot](landbot2.png)
+El último botón funciona para volver a preguntar alguna otra cosa acerca de las instalaciones o regresar al menú pricipal.
 
-![Segunda Sección](FotoChatBot2.png)
+### **Opciones disponibles en información en línea**
+![Información en línea interacción bot](landbot3.png)
+
+### **Opciones disponibles en buscar libros**
+![Buscar libros interacción bot](landbot4.png)
+
+### **Opciones disponibles en asistencia personalizada**
+![Asistencia personalizada interacción bot](landbot5.png)
+
 - **Descripción:** Se utilizó Landbot para el desarrollo, en el cual incluímos bloques como botones, condiconales y mensajes.  
 
 ## 6. Documentación para Replicar el Proyecto
@@ -197,7 +211,10 @@ Los roles involucrados en el proyecto son:
 - **DevOps**  
 - **QA Tester**  
 
-Estos roles trabajan en tareas de **desarrollo, implementación, pruebas y gestión** del proyecto.  
+Estos roles trabajan en tareas de **desarrollo, implementación, pruebas y gestión** del proyecto.
+
+A continuación se muestra el costo desglosado por cada **rol** en el equipo:
+![Foto de costos por roles](FotoCostoRoles.png)
 
 El **costo operativo** es de **$48,333.33**, y el **costo total**, con **IVA incluido**, asciende a **$166,069**.  
 
